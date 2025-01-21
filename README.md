@@ -1,2 +1,1 @@
-# gonzalo4044.github.io
-Some information if you need to find me.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical)
