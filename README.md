@@ -11,3 +11,4 @@
 - Python | JavaScript | SQL
 - Project Management
 - Data Analysis
+# [cv](https://github.com/gonzalo4044/yourrepository/blob/main/GGA_CV.pdf)
