@@ -44,6 +44,6 @@ Feel free to reach out via:
 
 Click the link below to download my CV:
 
-[![MY CV :)]](https://img.shields.io/badge/Download-My%20PDF-blue)](https://github.com/gonzalo4044/gonzalo4044.github.io/raw/main/CV.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-My%20PDF-blue)](link-to-your-pdf-file)][(https://github.com/gonzalo4044/gonzalo4044.github.io/raw/main/CV.pdf)](https://github.com/username/repository-name/blob/main/filename.pdf)
 
 ---
