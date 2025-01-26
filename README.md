@@ -42,8 +42,8 @@ Feel free to reach out via:
 
 ## Additional Resources
 
-Click the link below to download my latest resource:
+Click the link below to download my CV:
 
-[![Download PDF](https://img.shields.io/badge/Download-My%20PDF-blue)](link-to-your-pdf-file)
+[![MY CV :)]](https://img.shields.io/badge/Download-My%20PDF-blue)](https://github.com/gonzalo4044/gonzalo4044.github.io/raw/main/CV.pdf)
 
 ---
